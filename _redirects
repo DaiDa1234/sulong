@@ -1,0 +1,3 @@
+/              /query    200
+/DaiAdminS     /admin    200
+/DaiAdminS/*   /admin    200
